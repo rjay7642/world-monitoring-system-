@@ -2,10 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://worldmonitor.app/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-06</lastmod>
   </url>
   <url>
     <loc>https://tech.worldmonitor.app/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-06</lastmod>
+  </url>
+  <url>
+    <loc>https://happy.worldmonitor.app/</loc>
+    <lastmod>2026-03-06</lastmod>
+  </url>
+  <url>
+    <loc>https://finance.worldmonitor.app/</loc>
+    <lastmod>2026-03-06</lastmod>
+  </url>
+  <url>
+    <loc>https://worldmonitor.app/live-channels.html</loc>
+    <lastmod>2026-03-06</lastmod>
+  </url>
+  <url>
+    <loc>https://worldmonitor.app/settings.html</loc>
+    <lastmod>2026-03-06</lastmod>
   </url>
 </urlset>
