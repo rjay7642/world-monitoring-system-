@@ -1,55 +1,50 @@
-# 🌍 World Monitor: Next-Gen Intelligence Dashboard
+# World Monitoring System
 
-A premium, sci-fi inspired global monitoring system designed for real-time intelligence, geopolitical tracking, and situational awareness.
+## Project Description
+The World Monitoring System is an innovative application designed to track and monitor various global parameters, including environmental conditions, health statistics, and socio-economic indicators. It aims to provide users with real-time data and insights to help make informed decisions regarding global issues.
 
-![World Monitor Dashboard](https://raw.githubusercontent.com/rjay7642/world-monitoring-system-/main/public/favico/og-image.png)
+## Features
+- **Real-time Monitoring**: Get updates on critical global indicators.
+- **User-Friendly Interface**: Intuitive design that makes data access easy and efficient.
+- **Data Visualization**: Charts and graphs to help visualize data trends over time.
+- **Alerts and Notifications**: Receive alerts for significant changes in monitored data.
+- **Multilingual Support**: Accessible to a wider audience with multiple language options.
 
-## 🚀 Live Demo
-**Explore the Dashboard:** [https://rjay7642.github.io/world-monitoring-system-/](https://rjay7642.github.io/world-monitoring-system-/)
+## Technology Stack
+- **Frontend**: React.js
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Data Visualization**: Chart.js
+- **Deployment**: Heroku
 
-## ✨ Key Features
-- **Premium Sci-Fi UI:** Dark glassmorphism aesthetic with glowing neon accents and high-tech typography (Outfit/Inter).
-- **Global Situation Map:** Interactive real-time map tracking conflicts, military assets, and natural disasters.
-- **Intel Deep Dive:** Comprehensive country-level intelligence with Instability Index (CII), signals, and 7-day timelines.
-- **Multi-Source News:** Integrated feeds from Bloomberg, SkyNews, Al Jazeera, and more.
-- **Live Assets:** Real-time tracking of military aircraft, naval vessels, and humanitarian signals.
-- **Pentagon Pizza Index:** Real-time tracking of pizza shop status near the Pentagon as an informal instability metric.
+## Setup Instructions
+1. **Clone the Repository**:  
+   `git clone https://github.com/rjay7642/world-monitoring-system-`
 
-## 🛠️ Tech Stack
-- **Framework:** Preact + Vite
-- **Styling:** Vanilla CSS with Neo-Glassmorphism principles
-- **Map Engine:** Deck.gl + MapLibre GL
-- **Data Engine:** Sebuf-powered API architecture
-- **Hosting:** GitHub Pages
+2. **Navigate to the Project Directory**:  
+   `cd world-monitoring-system-`
 
-## 📦 Local Setup
+3. **Install Dependencies**:  
+   For the backend:  
+   `cd backend`  
+   `npm install`  
+   For the frontend:  
+   `cd frontend`  
+   `npm install`
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/rjay7642/world-monitoring-system-.git
-   cd world-monitoring-system-
-   ```
+4. **Run the Application**:  
+   For the backend:  
+   `cd backend`  
+   `npm start`  
+   For the frontend:  
+   `cd frontend`  
+   `npm start`
 
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
+5. **Access the Application**:  
+   Open your browser and navigate to `http://localhost:3000` to view the application.
 
-3. **Run the development server:**
-   ```bash
-   npm run dev
-   ```
+## Authors
+- [Rjay7642](https://github.com/rjay7642) 
 
-4. **Build for production:**
-   ```bash
-   npm run build
-   ```
-
-## 📜 Deployment
-To deploy your own version to GitHub Pages:
-```bash
-npm run deploy
-```
-
----
-*Developed as a high-end command center interface for worldwide monitoring.*
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
